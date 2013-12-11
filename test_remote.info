@@ -1,0 +1,4 @@
+name = Test Remote Tests and Github
+description = Test Remote tests and github integration
+core = 7.x
+
